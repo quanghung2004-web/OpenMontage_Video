@@ -1,0 +1,13 @@
+# Third-party clone — documented in README, not vendored into this repo
+/tools/OpenMontage/
+
+# Large regeneratable build artifacts (audio renders, video segments)
+/project/build/
+/project/assets/audio/
+
+# Final rendered video (too large for git; delivered directly to the user)
+/output/
+
+# Python
+__pycache__/
+*.pyc

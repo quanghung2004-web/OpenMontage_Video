@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "mood": "tense",
+    "start": 0.0,
+    "end": 587.1033880000001,
+    "duration": 587.103,
+    "path": "project/assets/audio/music/region_00_tense.wav"
+  },
+  {
+    "index": 1,
+    "mood": "mysterious",
+    "start": 588.1033880000001,
+    "end": 1028.1085209999999,
+    "duration": 440.005,
+    "path": "project/assets/audio/music/region_01_mysterious.wav"
+  },
+  {
+    "index": 2,
+    "mood": "heroic",
+    "start": 1029.1085209999999,
+    "end": 1477.327343,
+    "duration": 448.219,
+    "path": "project/assets/audio/music/region_02_heroic.wav"
+  },
+  {
+    "index": 3,
+    "mood": "uplifting",
+    "start": 1478.327343,
+    "end": 1670.612472,
+    "duration": 192.285,
+    "path": "project/assets/audio/music/region_03_uplifting.wav"
+  }
+]
