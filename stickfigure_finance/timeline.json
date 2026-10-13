@@ -1,0 +1,3730 @@
+{
+ "total": 1194.596,
+ "fps": 24,
+ "scenes": [
+  {
+   "index": 0,
+   "visual": {
+    "type": "title",
+    "title": "The Money Trap",
+    "sub": "Why Working Harder Won't Make You Rich (And What Will)"
+   },
+   "start": 0.0,
+   "sentences": [
+    {
+     "text": "Meet Sam and Alex.",
+     "start": 0.6,
+     "dur": 1.336
+    },
+    {
+     "text": "They are the same age, they went to the same school, and they got the same job, at the same company, with the same salary.",
+     "start": 2.236,
+     "dur": 7.471
+    }
+   ],
+   "end": 10.557,
+   "dur": 10.557
+  },
+  {
+   "index": 1,
+   "visual": {
+    "type": "stage",
+    "head": "Same job. Same salary.",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "wave",
+      "hold": "briefcase"
+     },
+     {
+      "who": "alex",
+      "x": 0.7,
+      "mood": "happy",
+      "act": "wave",
+      "hold": "briefcase"
+     }
+    ],
+    "props": [
+     {
+      "kind": "cash",
+      "x": 0.5,
+      "y": 0.35,
+      "s": 1.2,
+      "label": "$50,000 / year"
+     }
+    ]
+   },
+   "start": 10.556750000000001,
+   "sentences": [
+    {
+     "text": "Fifty thousand dollars a year each.",
+     "start": 10.557,
+     "dur": 2.113
+    },
+    {
+     "text": "Not rich, not poor.",
+     "start": 12.97,
+     "dur": 1.332
+    },
+    {
+     "text": "Just normal.",
+     "start": 14.602,
+     "dur": 0.975
+    },
+    {
+     "text": "And for the first few years, their lives look almost identical.",
+     "start": 15.877,
+     "dur": 3.911
+    }
+   ],
+   "end": 20.638,
+   "dur": 10.081
+  },
+  {
+   "index": 2,
+   "visual": {
+    "type": "stage",
+    "head": "30 years later...",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.28,
+      "mood": "sad",
+      "act": "sweat",
+      "age": 1
+     },
+     {
+      "who": "alex",
+      "x": 0.72,
+      "mood": "happy",
+      "act": "cheer",
+      "age": 1
+     }
+    ],
+    "props": [
+     {
+      "kind": "money_bag",
+      "x": 0.86,
+      "y": 0.55,
+      "s": 1.6,
+      "label": "$1,000,000+"
+     },
+     {
+      "kind": "card",
+      "x": 0.14,
+      "y": 0.55,
+      "s": 1.2,
+      "label": "debt",
+      "color": "#E0483E"
+     }
+    ]
+   },
+   "start": 20.63816666666667,
+   "sentences": [
+    {
+     "text": "But thirty years later, something strange has happened.",
+     "start": 20.638,
+     "dur": 3.159
+    },
+    {
+     "text": "Alex is a millionaire, ready to retire whenever Alex wants.",
+     "start": 24.097,
+     "dur": 3.985
+    },
+    {
+     "text": "Sam is still working, still stressed, and still has credit card debt.",
+     "start": 28.382,
+     "dur": 3.993
+    }
+   ],
+   "end": 33.225,
+   "dur": 12.587
+  },
+  {
+   "index": 3,
+   "visual": {
+    "type": "stage",
+    "head": "What happened?",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.5,
+      "mood": "confused",
+      "act": "shrug",
+      "say": "???"
+     }
+    ]
+   },
+   "start": 33.22508333333333,
+   "sentences": [
+    {
+     "text": "Sam never got fired.",
+     "start": 33.225,
+     "dur": 1.457
+    },
+    {
+     "text": "Sam never gambled the house away.",
+     "start": 34.982,
+     "dur": 2.042
+    },
+    {
+     "text": "Sam never did anything that looked like a big mistake.",
+     "start": 37.324,
+     "dur": 3.27
+    },
+    {
+     "text": "So what happened?",
+     "start": 40.894,
+     "dur": 1.089
+    }
+   ],
+   "end": 42.833,
+   "dur": 9.608
+  },
+  {
+   "index": 4,
+   "visual": {
+    "type": "bullets",
+    "title": "In this video",
+    "icon": "num",
+    "items": [
+     "Where the money actually goes",
+     "The silent thief: inflation",
+     "Debt: compounding against you",
+     "Compounding working for you",
+     "Assets vs. liabilities",
+     "A simple plan anyone can follow"
+    ]
+   },
+   "start": 42.83291666666665,
+   "sentences": [
+    {
+     "text": "In this video, we are going to follow Sam and Alex and uncover the money trap.",
+     "start": 42.833,
+     "dur": 5.044
+    },
+    {
+     "text": "We will look at where money really goes, the silent thief that shrinks your savings, how debt quietly compounds against you, and how the exact same math can work for you instead.",
+     "start": 48.177,
+     "dur": 11.397
+    },
+    {
+     "text": "And at the end, I will give you a simple plan that anyone can follow.",
+     "start": 59.874,
+     "dur": 4.155
+    }
+   ],
+   "end": 64.878,
+   "dur": 22.045
+  },
+  {
+   "index": 5,
+   "visual": {
+    "type": "big",
+    "text": "Not financial advice",
+    "sub": "Just math, stick figures, and common sense",
+    "color": "#E0483E"
+   },
+   "start": 64.87841666666664,
+   "sentences": [
+    {
+     "text": "Quick note before we start.",
+     "start": 64.878,
+     "dur": 1.536
+    },
+    {
+     "text": "This is general education, not personal financial advice.",
+     "start": 66.714,
+     "dur": 4.225
+    },
+    {
+     "text": "Your situation is unique.",
+     "start": 71.239,
+     "dur": 1.812
+    },
+    {
+     "text": "But the math you are about to see is the same for everyone.",
+     "start": 73.351,
+     "dur": 3.511
+    }
+   ],
+   "end": 77.711,
+   "dur": 12.833
+  },
+  {
+   "index": 6,
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "title": "Where Does the Money Go?"
+   },
+   "start": 77.71133333333329,
+   "sentences": [
+    {
+     "text": "Chapter one.",
+     "start": 77.711,
+     "dur": 0.907
+    },
+    {
+     "text": "Where does the money go?",
+     "start": 78.919,
+     "dur": 1.27
+    }
+   ],
+   "end": 81.389,
+   "dur": 3.678
+  },
+  {
+   "index": 7,
+   "visual": {
+    "type": "stage",
+    "head": "Payday!",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.5,
+      "mood": "happy",
+      "act": "cheer"
+     }
+    ],
+    "fx": "coins_rain"
+   },
+   "start": 81.38895833333329,
+   "sentences": [
+    {
+     "text": "Let's start with Sam's first paycheck.",
+     "start": 81.389,
+     "dur": 1.999
+    },
+    {
+     "text": "After taxes, fifty thousand a year comes out to about thirty nine thousand.",
+     "start": 83.688,
+     "dur": 5.043
+    },
+    {
+     "text": "That's roughly three thousand two hundred and fifty dollars a month.",
+     "start": 89.03,
+     "dur": 3.684
+    },
+    {
+     "text": "It feels like a fortune.",
+     "start": 93.014,
+     "dur": 1.488
+    }
+   ],
+   "end": 95.353,
+   "dur": 13.964
+  },
+  {
+   "index": 8,
+   "visual": {
+    "type": "stage",
+    "head": "A little upgrade...",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.25,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "car",
+      "x": 0.55,
+      "y": 0.62,
+      "s": 1.4,
+      "label": "new car",
+      "appear": 0.5
+     },
+     {
+      "kind": "phone",
+      "x": 0.82,
+      "y": 0.5,
+      "s": 1.1,
+      "label": "new phone",
+      "appear": 3
+     },
+     {
+      "kind": "coffee",
+      "x": 0.7,
+      "y": 0.28,
+      "s": 0.9,
+      "label": "daily latte",
+      "appear": 6
+     }
+    ]
+   },
+   "start": 95.35279166666662,
+   "sentences": [
+    {
+     "text": "So Sam does what most people do.",
+     "start": 95.353,
+     "dur": 2.179
+    },
+    {
+     "text": "Sam finances a nice new car, because Sam deserves it.",
+     "start": 97.832,
+     "dur": 3.758
+    },
+    {
+     "text": "Gets the newest phone on a monthly plan.",
+     "start": 101.89,
+     "dur": 2.44
+    },
+    {
+     "text": "Grabs a fancy coffee every morning on the way to work.",
+     "start": 104.63,
+     "dur": 3.356
+    },
+    {
+     "text": "None of these feel like a big deal.",
+     "start": 108.286,
+     "dur": 1.972
+    }
+   ],
+   "end": 111.108,
+   "dur": 15.755
+  },
+  {
+   "index": 9,
+   "visual": {
+    "type": "stage",
+    "head": "The leaky bucket",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.25,
+      "mood": "confused",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "bucket",
+      "x": 0.62,
+      "y": 0.58,
+      "s": 1.8,
+      "leak": true
+     }
+    ],
+    "fx": "pour"
+   },
+   "start": 111.10804166666661,
+   "sentences": [
+    {
+     "text": "But here's the thing.",
+     "start": 111.108,
+     "dur": 1.138
+    },
+    {
+     "text": "Sam's money works like a bucket with holes in it.",
+     "start": 112.546,
+     "dur": 2.694
+    },
+    {
+     "text": "The paycheck pours in at the top, and it leaks out the bottom through dozens of small holes.",
+     "start": 115.54,
+     "dur": 5.493
+    },
+    {
+     "text": "Subscriptions.",
+     "start": 121.333,
+     "dur": 1.011
+    },
+    {
+     "text": "Delivery apps.",
+     "start": 122.644,
+     "dur": 1.092
+    },
+    {
+     "text": "Car payments.",
+     "start": 124.037,
+     "dur": 0.976
+    },
+    {
+     "text": "Little treats.",
+     "start": 125.312,
+     "dur": 1.016
+    },
+    {
+     "text": "By the end of the month, the bucket is empty again.",
+     "start": 126.628,
+     "dur": 2.756
+    }
+   ],
+   "end": 130.234,
+   "dur": 19.126
+  },
+  {
+   "index": 10,
+   "visual": {
+    "type": "stat",
+    "value": 1825,
+    "prefix": "$",
+    "suffix": " / year",
+    "label": "a $5 coffee, every working day... and weekends",
+    "color": "#E0483E"
+   },
+   "start": 130.23370833333328,
+   "sentences": [
+    {
+     "text": "Take that coffee.",
+     "start": 130.234,
+     "dur": 1.162
+    },
+    {
+     "text": "Five dollars a day doesn't sound like much.",
+     "start": 131.696,
+     "dur": 2.538
+    },
+    {
+     "text": "But five dollars, every single day, is one thousand eight hundred and twenty five dollars a year.",
+     "start": 134.534,
+     "dur": 6.116
+    }
+   ],
+   "end": 141.5,
+   "dur": 11.266
+  },
+  {
+   "index": 11,
+   "visual": {
+    "type": "big",
+    "text": "It's not about the coffee.",
+    "sub": "It's about the habit of never keeping anything.",
+    "color": "#2F6FD6"
+   },
+   "start": 141.4995,
+   "sentences": [
+    {
+     "text": "Now, this isn't a lecture about coffee.",
+     "start": 141.5,
+     "dur": 2.189
+    },
+    {
+     "text": "Enjoy your coffee.",
+     "start": 143.988,
+     "dur": 1.31
+    },
+    {
+     "text": "The real problem isn't any one purchase.",
+     "start": 145.598,
+     "dur": 2.623
+    },
+    {
+     "text": "It's that Sam has no system.",
+     "start": 148.522,
+     "dur": 1.805
+    },
+    {
+     "text": "Whatever comes in, goes out.",
+     "start": 150.626,
+     "dur": 1.69
+    }
+   ],
+   "end": 153.167,
+   "dur": 11.667
+  },
+  {
+   "index": 12,
+   "visual": {
+    "type": "chapter",
+    "n": 0,
+    "title": "Lifestyle Inflation",
+    "small": true
+   },
+   "start": 153.16666666666674,
+   "sentences": [
+    {
+     "text": "And then something even sneakier happens.",
+     "start": 153.167,
+     "dur": 2.304
+    },
+    {
+     "text": "Sam gets a raise.",
+     "start": 155.771,
+     "dur": 1.302
+    }
+   ],
+   "end": 158.273,
+   "dur": 5.106
+  },
+  {
+   "index": 13,
+   "visual": {
+    "type": "line",
+    "title": "Sam's income vs. spending",
+    "xlabel": "years",
+    "x0": 0,
+    "x1": 10,
+    "money": true,
+    "series": [
+     {
+      "name": "income",
+      "color": "#2E9E5B",
+      "data": [
+       3250,
+       3400,
+       3550,
+       3700,
+       3900,
+       4100,
+       4300,
+       4500,
+       4700,
+       4900,
+       5100
+      ]
+     },
+     {
+      "name": "spending",
+      "color": "#E0483E",
+      "data": [
+       3200,
+       3380,
+       3540,
+       3700,
+       3890,
+       4100,
+       4290,
+       4500,
+       4700,
+       4890,
+       5100
+      ]
+     }
+    ]
+   },
+   "start": 158.27254166666677,
+   "sentences": [
+    {
+     "text": "Every time Sam earns more, Sam spends more.",
+     "start": 158.273,
+     "dur": 2.969
+    },
+    {
+     "text": "A bigger apartment.",
+     "start": 161.542,
+     "dur": 1.237
+    },
+    {
+     "text": "A nicer car.",
+     "start": 163.079,
+     "dur": 1.125
+    },
+    {
+     "text": "Better vacations.",
+     "start": 164.504,
+     "dur": 1.286
+    },
+    {
+     "text": "Economists call this lifestyle inflation, or lifestyle creep.",
+     "start": 166.091,
+     "dur": 4.211
+    },
+    {
+     "text": "Look at the chart.",
+     "start": 170.602,
+     "dur": 1.029
+    },
+    {
+     "text": "Income goes up.",
+     "start": 171.93,
+     "dur": 1.086
+    },
+    {
+     "text": "But spending goes up right alongside it, like a shadow.",
+     "start": 173.316,
+     "dur": 3.298
+    },
+    {
+     "text": "The gap between them, the money Sam actually keeps, stays at almost zero.",
+     "start": 176.914,
+     "dur": 4.821
+    }
+   ],
+   "end": 182.586,
+   "dur": 24.313
+  },
+  {
+   "index": 14,
+   "visual": {
+    "type": "stage",
+    "head": "The rat race",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.5,
+      "mood": "sad",
+      "act": "run",
+      "on": "treadmill"
+     }
+    ]
+   },
+   "start": 182.5857916666669,
+   "sentences": [
+    {
+     "text": "This is what people call the rat race.",
+     "start": 182.586,
+     "dur": 2.346
+    },
+    {
+     "text": "Running faster and faster, earning more and more, and somehow ending up in exactly the same place.",
+     "start": 185.232,
+     "dur": 6.407
+    },
+    {
+     "text": "Working harder doesn't fix it, because the problem isn't how much Sam earns.",
+     "start": 191.94,
+     "dur": 4.637
+    },
+    {
+     "text": "It's what happens after the money arrives.",
+     "start": 196.876,
+     "dur": 2.276
+    }
+   ],
+   "end": 200.002,
+   "dur": 17.416
+  },
+  {
+   "index": 15,
+   "visual": {
+    "type": "stage",
+    "head": "Alex does one thing differently",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.35,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "piggy",
+      "x": 0.68,
+      "y": 0.6,
+      "s": 1.6,
+      "label": "pay yourself first"
+     }
+    ],
+    "fx": "coin_drop"
+   },
+   "start": 200.0019583333336,
+   "sentences": [
+    {
+     "text": "Alex earns exactly the same.",
+     "start": 200.002,
+     "dur": 1.838
+    },
+    {
+     "text": "Alex enjoys life too.",
+     "start": 202.14,
+     "dur": 1.568
+    },
+    {
+     "text": "But Alex does one thing differently.",
+     "start": 204.009,
+     "dur": 1.954
+    },
+    {
+     "text": "On payday, before spending a single dollar, Alex moves a fixed amount into savings and investments.",
+     "start": 206.263,
+     "dur": 6.579
+    },
+    {
+     "text": "Automatically.",
+     "start": 213.142,
+     "dur": 0.907
+    },
+    {
+     "text": "Alex pays future Alex first, and then spends whatever is left.",
+     "start": 214.349,
+     "dur": 4.278
+    }
+   ],
+   "end": 219.478,
+   "dur": 19.476
+  },
+  {
+   "index": 16,
+   "visual": {
+    "type": "versus",
+    "left": {
+     "who": "sam",
+     "mood": "sad",
+     "title": "Sam",
+     "lines": [
+      "Earn",
+      "Spend",
+      "Save what's left",
+      "(nothing is left)"
+     ]
+    },
+    "right": {
+     "who": "alex",
+     "mood": "happy",
+     "title": "Alex",
+     "lines": [
+      "Earn",
+      "Save first",
+      "Spend what's left",
+      "(always saves)"
+     ]
+    }
+   },
+   "start": 219.47770833333368,
+   "sentences": [
+    {
+     "text": "It sounds like a tiny difference.",
+     "start": 219.478,
+     "dur": 1.83
+    },
+    {
+     "text": "Sam earns, spends, and tries to save whatever is left over.",
+     "start": 221.608,
+     "dur": 4.027
+    },
+    {
+     "text": "And there is never anything left over.",
+     "start": 225.935,
+     "dur": 2.227
+    },
+    {
+     "text": "Alex earns, saves first, and then spends what's left.",
+     "start": 228.462,
+     "dur": 3.318
+    },
+    {
+     "text": "Same income.",
+     "start": 232.08,
+     "dur": 1.019
+    },
+    {
+     "text": "Completely different outcome.",
+     "start": 233.4,
+     "dur": 1.595
+    },
+    {
+     "text": "Remember this, because it will matter a lot later.",
+     "start": 235.295,
+     "dur": 2.877
+    }
+   ],
+   "end": 239.022,
+   "dur": 19.544
+  },
+  {
+   "index": 17,
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "title": "The Silent Thief"
+   },
+   "start": 239.02154166666708,
+   "sentences": [
+    {
+     "text": "Chapter two.",
+     "start": 239.022,
+     "dur": 0.974
+    },
+    {
+     "text": "The silent thief.",
+     "start": 240.296,
+     "dur": 1.146
+    }
+   ],
+   "end": 242.642,
+   "dur": 3.62
+  },
+  {
+   "index": 18,
+   "visual": {
+    "type": "stage",
+    "head": "Sam's 'safe' plan",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.35,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "cash",
+      "x": 0.68,
+      "y": 0.36,
+      "s": 1.3,
+      "label": "cash under the mattress"
+     },
+     {
+      "kind": "sofa",
+      "x": 0.68,
+      "y": 0.7,
+      "s": 1.5
+     }
+    ]
+   },
+   "start": 242.64195833333378,
+   "sentences": [
+    {
+     "text": "A few years in, Sam gets a little nervous and decides to save some money.",
+     "start": 242.642,
+     "dur": 4.718
+    },
+    {
+     "text": "But Sam doesn't trust the stock market.",
+     "start": 247.66,
+     "dur": 2.014
+    },
+    {
+     "text": "Too risky.",
+     "start": 249.974,
+     "dur": 0.874
+    },
+    {
+     "text": "So Sam keeps the savings in cash, or in a bank account paying almost no interest.",
+     "start": 251.148,
+     "dur": 5.508
+    },
+    {
+     "text": "That feels safe.",
+     "start": 256.956,
+     "dur": 1.057
+    },
+    {
+     "text": "Nothing can go wrong, right?",
+     "start": 258.313,
+     "dur": 1.62
+    }
+   ],
+   "end": 260.784,
+   "dur": 18.142
+  },
+  {
+   "index": 19,
+   "visual": {
+    "type": "stage",
+    "head": "Prices keep rising",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "shocked",
+      "act": "shock"
+     }
+    ],
+    "props": [
+     {
+      "kind": "burger",
+      "x": 0.62,
+      "y": 0.5,
+      "s": 1.3,
+      "label": "$5 -> $9"
+     },
+     {
+      "kind": "house",
+      "x": 0.85,
+      "y": 0.55,
+      "s": 1.2,
+      "label": "rent going up"
+     }
+    ]
+   },
+   "start": 260.7835000000005,
+   "sentences": [
+    {
+     "text": "Wrong.",
+     "start": 260.784,
+     "dur": 0.609
+    },
+    {
+     "text": "There is a thief hiding in plain sight.",
+     "start": 261.693,
+     "dur": 2.102
+    },
+    {
+     "text": "It's called inflation.",
+     "start": 264.095,
+     "dur": 1.386
+    },
+    {
+     "text": "Every year, prices go up a little.",
+     "start": 265.781,
+     "dur": 2.059
+    },
+    {
+     "text": "The burger that cost five dollars a decade ago costs nine dollars now.",
+     "start": 268.14,
+     "dur": 4.636
+    },
+    {
+     "text": "Rent goes up.",
+     "start": 273.076,
+     "dur": 1.037
+    },
+    {
+     "text": "Groceries go up.",
+     "start": 274.413,
+     "dur": 1.236
+    },
+    {
+     "text": "Everything goes up.",
+     "start": 275.949,
+     "dur": 1.164
+    }
+   ],
+   "end": 277.963,
+   "dur": 17.179
+  },
+  {
+   "index": 20,
+   "visual": {
+    "type": "bars",
+    "title": "What $100 in cash can buy (3% inflation)",
+    "money": true,
+    "items": [
+     [
+      "today",
+      100,
+      "#2E9E5B"
+     ],
+     [
+      "in 10 years",
+      74.41,
+      "#F2A93B"
+     ],
+     [
+      "in 20 years",
+      55.37,
+      "#F2A93B"
+     ],
+     [
+      "in 30 years",
+      41.2,
+      "#E0483E"
+     ]
+    ]
+   },
+   "start": 277.96279166666733,
+   "sentences": [
+    {
+     "text": "Let's say inflation averages three percent a year.",
+     "start": 277.963,
+     "dur": 3.048
+    },
+    {
+     "text": "That's a fairly normal number.",
+     "start": 281.311,
+     "dur": 1.709
+    },
+    {
+     "text": "If you keep one hundred dollars in cash, after ten years it only buys what seventy four dollars buys today.",
+     "start": 283.32,
+     "dur": 7.032
+    },
+    {
+     "text": "After twenty years, about fifty five dollars.",
+     "start": 290.651,
+     "dur": 2.868
+    },
+    {
+     "text": "After thirty years, just forty one dollars.",
+     "start": 293.82,
+     "dur": 2.646
+    },
+    {
+     "text": "You didn't spend it.",
+     "start": 296.766,
+     "dur": 1.034
+    },
+    {
+     "text": "You didn't lose it.",
+     "start": 298.1,
+     "dur": 1.024
+    },
+    {
+     "text": "But more than half of its value quietly disappeared.",
+     "start": 299.423,
+     "dur": 2.928
+    }
+   ],
+   "end": 303.202,
+   "dur": 25.239
+  },
+  {
+   "index": 21,
+   "visual": {
+    "type": "big",
+    "text": "Cash isn't safe.",
+    "sub": "It just loses value slowly enough that you don't notice.",
+    "color": "#E0483E"
+   },
+   "start": 303.2015416666675,
+   "sentences": [
+    {
+     "text": "So cash isn't actually safe over the long run.",
+     "start": 303.202,
+     "dur": 3.06
+    },
+    {
+     "text": "It just loses value slowly enough that you don't notice.",
+     "start": 306.561,
+     "dur": 3.285
+    },
+    {
+     "text": "Sam thinks Sam is avoiding risk.",
+     "start": 310.147,
+     "dur": 2.063
+    },
+    {
+     "text": "In reality, Sam is guaranteeing a slow loss.",
+     "start": 312.51,
+     "dur": 2.958
+    }
+   ],
+   "end": 316.318,
+   "dur": 13.116
+  },
+  {
+   "index": 22,
+   "visual": {
+    "type": "stage",
+    "head": "Keep SOME cash",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.32,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "shield",
+      "x": 0.66,
+      "y": 0.5,
+      "s": 1.6,
+      "label": "emergency fund: 3-6 months"
+     }
+    ]
+   },
+   "start": 316.3177916666675,
+   "sentences": [
+    {
+     "text": "Now, to be fair, you do need some cash.",
+     "start": 316.318,
+     "dur": 2.347
+    },
+    {
+     "text": "Alex keeps an emergency fund, enough to cover three to six months of essential expenses, in a high yield savings account.",
+     "start": 318.965,
+     "dur": 8.075
+    },
+    {
+     "text": "That's the shield.",
+     "start": 327.339,
+     "dur": 1.076
+    },
+    {
+     "text": "If Alex loses a job, or the car breaks down, there's no panic and no need for a credit card.",
+     "start": 328.716,
+     "dur": 6.672
+    }
+   ],
+   "end": 336.238,
+   "dur": 19.92
+  },
+  {
+   "index": 23,
+   "visual": {
+    "type": "stage",
+    "head": "...and put the rest to work",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "cheer"
+     }
+    ],
+    "props": [
+     {
+      "kind": "tree",
+      "x": 0.68,
+      "y": 0.6,
+      "s": 1.7,
+      "grow": true,
+      "label": "investments"
+     }
+    ]
+   },
+   "start": 336.2381666666676,
+   "sentences": [
+    {
+     "text": "But everything beyond the emergency fund, the long term money, Alex puts to work, in investments that have historically grown faster than inflation.",
+     "start": 336.238,
+     "dur": 9.914
+    },
+    {
+     "text": "We'll get to exactly how in a few minutes.",
+     "start": 346.452,
+     "dur": 2.257
+    },
+    {
+     "text": "First, we need to talk about the thing that's really hurting Sam.",
+     "start": 349.009,
+     "dur": 3.423
+    }
+   ],
+   "end": 353.283,
+   "dur": 17.045
+  },
+  {
+   "index": 24,
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "title": "Debt: The Trap Closes"
+   },
+   "start": 353.28258333333434,
+   "sentences": [
+    {
+     "text": "Chapter three.",
+     "start": 353.283,
+     "dur": 0.981
+    },
+    {
+     "text": "Debt.",
+     "start": 354.564,
+     "dur": 0.597
+    },
+    {
+     "text": "The trap closes.",
+     "start": 355.461,
+     "dur": 1.177
+    }
+   ],
+   "end": 357.838,
+   "dur": 4.555
+  },
+  {
+   "index": 25,
+   "visual": {
+    "type": "stage",
+    "head": "Emergency!",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "shocked",
+      "act": "shock"
+     }
+    ],
+    "props": [
+     {
+      "kind": "car",
+      "x": 0.7,
+      "y": 0.62,
+      "s": 1.4,
+      "broken": true,
+      "label": "repair: $5,000"
+     }
+    ]
+   },
+   "start": 357.83783333333434,
+   "sentences": [
+    {
+     "text": "One day, Sam's car breaks down.",
+     "start": 357.838,
+     "dur": 1.987
+    },
+    {
+     "text": "The repair bill is five thousand dollars.",
+     "start": 360.125,
+     "dur": 2.347
+    },
+    {
+     "text": "Sam doesn't have an emergency fund.",
+     "start": 362.772,
+     "dur": 2.208
+    },
+    {
+     "text": "So Sam does the only thing Sam can do.",
+     "start": 365.28,
+     "dur": 2.336
+    }
+   ],
+   "end": 368.466,
+   "dur": 10.628
+  },
+  {
+   "index": 26,
+   "visual": {
+    "type": "stage",
+    "head": "Swipe.",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.35,
+      "mood": "neutral",
+      "act": "point",
+      "hold": "card"
+     }
+    ],
+    "props": [
+     {
+      "kind": "card",
+      "x": 0.7,
+      "y": 0.48,
+      "s": 1.6,
+      "label": "24% APR",
+      "color": "#E0483E"
+     }
+    ]
+   },
+   "start": 368.4662083333344,
+   "sentences": [
+    {
+     "text": "Sam puts it on a credit card.",
+     "start": 368.466,
+     "dur": 1.968
+    },
+    {
+     "text": "The interest rate is twenty four percent a year.",
+     "start": 370.734,
+     "dur": 2.869
+    },
+    {
+     "text": "That's pretty typical for credit cards.",
+     "start": 373.903,
+     "dur": 2.135
+    },
+    {
+     "text": "Sam plans to pay it off quickly.",
+     "start": 376.338,
+     "dur": 1.944
+    },
+    {
+     "text": "Sam can afford one hundred and fifty dollars a month.",
+     "start": 378.582,
+     "dur": 3.294
+    }
+   ],
+   "end": 382.725,
+   "dur": 14.259
+  },
+  {
+   "index": 27,
+   "visual": {
+    "type": "stat",
+    "value": 56,
+    "suffix": " months",
+    "label": "to pay off $5,000 at 24% paying $150/month",
+    "color": "#E0483E"
+   },
+   "start": 382.72529166666783,
+   "sentences": [
+    {
+     "text": "How long does that take?",
+     "start": 382.725,
+     "dur": 1.478
+    },
+    {
+     "text": "Fifty six months.",
+     "start": 384.503,
+     "dur": 1.292
+    },
+    {
+     "text": "Almost five years.",
+     "start": 386.095,
+     "dur": 1.366
+    }
+   ],
+   "end": 388.311,
+   "dur": 5.586
+  },
+  {
+   "index": 28,
+   "visual": {
+    "type": "bars",
+    "title": "The real cost of a $5,000 repair",
+    "money": true,
+    "items": [
+     [
+      "the repair",
+      5000,
+      "#F2A93B"
+     ],
+     [
+      "interest paid",
+      3322,
+      "#E0483E"
+     ],
+     [
+      "total paid",
+      8322,
+      "#E0483E"
+     ]
+    ]
+   },
+   "start": 388.3110416666679,
+   "sentences": [
+    {
+     "text": "And in total, Sam pays about eight thousand three hundred dollars.",
+     "start": 388.311,
+     "dur": 4.056
+    },
+    {
+     "text": "More than three thousand dollars of that is pure interest.",
+     "start": 392.668,
+     "dur": 3.357
+    },
+    {
+     "text": "Sam paid for the repair, and then paid for it again, more than half over, just for the privilege of borrowing.",
+     "start": 396.324,
+     "dur": 6.776
+    }
+   ],
+   "end": 403.951,
+   "dur": 15.64
+  },
+  {
+   "index": 29,
+   "visual": {
+    "type": "stage",
+    "head": "Compounding... against you",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.5,
+      "mood": "sad",
+      "act": "walk",
+      "chain": true
+     }
+    ]
+   },
+   "start": 403.9508333333346,
+   "sentences": [
+    {
+     "text": "This is the dark side of something called compound interest.",
+     "start": 403.951,
+     "dur": 3.466
+    },
+    {
+     "text": "When you owe money, interest is charged on your balance, and if you don't pay it, interest is charged on the interest.",
+     "start": 407.716,
+     "dur": 7.159
+    },
+    {
+     "text": "The debt grows by itself.",
+     "start": 415.175,
+     "dur": 1.646
+    },
+    {
+     "text": "It is like a ball and chain that gets heavier every month you carry it.",
+     "start": 417.122,
+     "dur": 4.039
+    }
+   ],
+   "end": 422.011,
+   "dur": 18.06
+  },
+  {
+   "index": 30,
+   "visual": {
+    "type": "stage",
+    "head": "The car itself",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.25,
+      "mood": "confused",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "car",
+      "x": 0.62,
+      "y": 0.62,
+      "s": 1.5,
+      "label": "$35,000 -> ~$17,000 in 5 yrs"
+     },
+     {
+      "kind": "arrow_down",
+      "x": 0.88,
+      "y": 0.45,
+      "s": 1.3,
+      "color": "#E0483E"
+     }
+    ]
+   },
+   "start": 422.01054166666796,
+   "sentences": [
+    {
+     "text": "And remember Sam's new car?",
+     "start": 422.011,
+     "dur": 1.606
+    },
+    {
+     "text": "Sam borrowed thirty five thousand dollars for it.",
+     "start": 423.916,
+     "dur": 2.836
+    },
+    {
+     "text": "Sam pays interest on that loan every month.",
+     "start": 427.052,
+     "dur": 2.716
+    },
+    {
+     "text": "Meanwhile, the car loses value the moment it leaves the dealership.",
+     "start": 430.068,
+     "dur": 4.159
+    },
+    {
+     "text": "After five years, it might be worth only half of what Sam paid.",
+     "start": 434.528,
+     "dur": 3.933
+    },
+    {
+     "text": "Sam is paying interest on something that is shrinking.",
+     "start": 438.76,
+     "dur": 3.003
+    }
+   ],
+   "end": 442.613,
+   "dur": 20.602
+  },
+  {
+   "index": 31,
+   "visual": {
+    "type": "pie",
+    "title": "Sam's monthly paycheck",
+    "items": [
+     [
+      "rent",
+      35,
+      "#2F6FD6"
+     ],
+     [
+      "car loan",
+      15,
+      "#E0483E"
+     ],
+     [
+      "card & loans",
+      12,
+      "#E0483E"
+     ],
+     [
+      "food & fun",
+      30,
+      "#F2A93B"
+     ],
+     [
+      "savings",
+      0,
+      "#2E9E5B"
+     ],
+     [
+      "other",
+      8,
+      "#7A52C7"
+     ]
+    ]
+   },
+   "start": 442.613416666668,
+   "sentences": [
+    {
+     "text": "Put it all together and look at Sam's paycheck.",
+     "start": 442.613,
+     "dur": 2.525
+    },
+    {
+     "text": "Rent.",
+     "start": 445.438,
+     "dur": 0.629
+    },
+    {
+     "text": "Car loan.",
+     "start": 446.367,
+     "dur": 0.836
+    },
+    {
+     "text": "Credit card payments.",
+     "start": 447.503,
+     "dur": 1.389
+    },
+    {
+     "text": "Food and fun.",
+     "start": 449.192,
+     "dur": 1.093
+    },
+    {
+     "text": "Everything else.",
+     "start": 450.586,
+     "dur": 1.006
+    },
+    {
+     "text": "And savings?",
+     "start": 451.891,
+     "dur": 0.923
+    },
+    {
+     "text": "Zero.",
+     "start": 453.114,
+     "dur": 0.698
+    },
+    {
+     "text": "A big slice of Sam's income now goes to paying for the past, instead of building the future.",
+     "start": 454.112,
+     "dur": 5.776
+    }
+   ],
+   "end": 460.738,
+   "dur": 18.125
+  },
+  {
+   "index": 32,
+   "visual": {
+    "type": "big",
+    "text": "Debt = your future income, spent today",
+    "sub": "plus interest",
+    "color": "#E0483E"
+   },
+   "start": 460.7380000000014,
+   "sentences": [
+    {
+     "text": "That's what consumer debt really is.",
+     "start": 460.738,
+     "dur": 2.142
+    },
+    {
+     "text": "It's your future income, spent today, plus interest.",
+     "start": 463.18,
+     "dur": 3.274
+    },
+    {
+     "text": "Every dollar of debt is a dollar that future Sam has to earn, and then hand to the bank.",
+     "start": 466.754,
+     "dur": 5.35
+    }
+   ],
+   "end": 472.954,
+   "dur": 12.216
+  },
+  {
+   "index": 33,
+   "visual": {
+    "type": "stage",
+    "head": "Not all debt is equal",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.5,
+      "mood": "thinking",
+      "act": "think"
+     }
+    ],
+    "props": [
+     {
+      "kind": "card",
+      "x": 0.18,
+      "y": 0.45,
+      "s": 1.2,
+      "label": "high interest: avoid",
+      "color": "#E0483E"
+     },
+     {
+      "kind": "house",
+      "x": 0.82,
+      "y": 0.5,
+      "s": 1.3,
+      "label": "low rate, long term: careful"
+     }
+    ]
+   },
+   "start": 472.95437500000145,
+   "sentences": [
+    {
+     "text": "To be fair, not all debt is equally bad.",
+     "start": 472.954,
+     "dur": 2.611
+    },
+    {
+     "text": "A low interest mortgage on a home you can afford, or a loan for an education that clearly raises your income, can make sense.",
+     "start": 475.866,
+     "dur": 8.731
+    },
+    {
+     "text": "But high interest consumer debt, the kind used for stuff that loses value, is the single biggest wealth killer for normal people.",
+     "start": 484.897,
+     "dur": 8.472
+    }
+   ],
+   "end": 494.219,
+   "dur": 21.265
+  },
+  {
+   "index": 34,
+   "visual": {
+    "type": "bullets",
+    "title": "Alex's debt rules",
+    "icon": "check",
+    "items": [
+     "Credit card paid in full every month",
+     "Emergency fund instead of borrowing",
+     "Cars bought used, kept for years",
+     "High-interest debt killed first"
+    ]
+   },
+   "start": 494.2188333333348,
+   "sentences": [
+    {
+     "text": "Alex has a few simple rules.",
+     "start": 494.219,
+     "dur": 1.855
+    },
+    {
+     "text": "Pay the credit card in full, every month, so interest is never charged.",
+     "start": 496.374,
+     "dur": 4.618
+    },
+    {
+     "text": "Use the emergency fund, not debt, for surprises.",
+     "start": 501.292,
+     "dur": 3.576
+    },
+    {
+     "text": "Buy reliable used cars and drive them for a long time.",
+     "start": 505.168,
+     "dur": 3.803
+    },
+    {
+     "text": "And if there ever is high interest debt, pay it off before anything else.",
+     "start": 509.27,
+     "dur": 4.288
+    },
+    {
+     "text": "Because paying off a twenty four percent credit card is like earning a guaranteed twenty four percent return.",
+     "start": 513.858,
+     "dur": 6.967
+    }
+   ],
+   "end": 521.675,
+   "dur": 27.456
+  },
+  {
+   "index": 35,
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "title": "The Eighth Wonder of the World"
+   },
+   "start": 521.6746250000014,
+   "sentences": [
+    {
+     "text": "Chapter four.",
+     "start": 521.675,
+     "dur": 0.984
+    },
+    {
+     "text": "The eighth wonder of the world.",
+     "start": 522.958,
+     "dur": 1.714
+    }
+   ],
+   "end": 525.872,
+   "dur": 4.197
+  },
+  {
+   "index": 36,
+   "visual": {
+    "type": "big",
+    "text": "Compound interest",
+    "sub": "interest earning interest, earning interest...",
+    "color": "#2E9E5B"
+   },
+   "start": 525.8719166666679,
+   "sentences": [
+    {
+     "text": "There's a famous quote, often attributed to Albert Einstein, though nobody can prove he said it.",
+     "start": 525.872,
+     "dur": 5.887
+    },
+    {
+     "text": "Compound interest is the eighth wonder of the world.",
+     "start": 532.059,
+     "dur": 3.208
+    },
+    {
+     "text": "He who understands it, earns it.",
+     "start": 535.567,
+     "dur": 1.729
+    },
+    {
+     "text": "He who doesn't, pays it.",
+     "start": 537.595,
+     "dur": 1.243
+    },
+    {
+     "text": "Sam has been paying it.",
+     "start": 539.139,
+     "dur": 1.417
+    },
+    {
+     "text": "Now let's see what happens when Alex earns it.",
+     "start": 540.855,
+     "dur": 2.377
+    }
+   ],
+   "end": 544.082,
+   "dur": 18.21
+  },
+  {
+   "index": 37,
+   "visual": {
+    "type": "stage",
+    "head": "The snowball",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.25,
+      "mood": "happy",
+      "act": "push"
+     }
+    ],
+    "props": [
+     {
+      "kind": "snowball",
+      "x": 0.6,
+      "y": 0.62,
+      "s": 1.0,
+      "grow": true
+     }
+    ]
+   },
+   "start": 544.0819583333341,
+   "sentences": [
+    {
+     "text": "Think of a snowball rolling down a hill.",
+     "start": 544.082,
+     "dur": 2.328
+    },
+    {
+     "text": "At first it's tiny.",
+     "start": 546.71,
+     "dur": 1.318
+    },
+    {
+     "text": "It picks up a little snow on each turn.",
+     "start": 548.328,
+     "dur": 2.147
+    },
+    {
+     "text": "But the bigger it gets, the more snow it picks up per turn.",
+     "start": 550.776,
+     "dur": 3.415
+    },
+    {
+     "text": "Growth creates more growth.",
+     "start": 554.49,
+     "dur": 1.634
+    },
+    {
+     "text": "That's compounding.",
+     "start": 556.424,
+     "dur": 1.171
+    },
+    {
+     "text": "Your money earns a return, and then that return starts earning its own return.",
+     "start": 557.896,
+     "dur": 4.766
+    }
+   ],
+   "end": 563.512,
+   "dur": 19.43
+  },
+  {
+   "index": 38,
+   "visual": {
+    "type": "stage",
+    "head": "Alex's plan",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "calendar",
+      "x": 0.62,
+      "y": 0.45,
+      "s": 1.2,
+      "label": "every month"
+     },
+     {
+      "kind": "cash",
+      "x": 0.85,
+      "y": 0.5,
+      "s": 1.0,
+      "label": "$300"
+     }
+    ]
+   },
+   "start": 563.5115416666671,
+   "sentences": [
+    {
+     "text": "Here's Alex's plan.",
+     "start": 563.512,
+     "dur": 1.399
+    },
+    {
+     "text": "Starting at age twenty five, Alex invests three hundred dollars a month.",
+     "start": 565.21,
+     "dur": 4.525
+    },
+    {
+     "text": "That's it.",
+     "start": 570.035,
+     "dur": 0.782
+    },
+    {
+     "text": "Not a fortune.",
+     "start": 571.118,
+     "dur": 1.041
+    },
+    {
+     "text": "About ten dollars a day.",
+     "start": 572.459,
+     "dur": 1.517
+    },
+    {
+     "text": "And let's assume an average return of eight percent a year.",
+     "start": 574.276,
+     "dur": 3.22
+    },
+    {
+     "text": "That's an assumption, not a promise, but it's in the range of what a broad stock market fund has returned over long periods of history.",
+     "start": 577.796,
+     "dur": 8.113
+    }
+   ],
+   "end": 586.759,
+   "dur": 23.247
+  },
+  {
+   "index": 39,
+   "visual": {
+    "type": "line",
+    "title": "$300/month at 8%: money in vs. money grown",
+    "xlabel": "years",
+    "x0": 0,
+    "x1": 40,
+    "money": true,
+    "series": [
+     {
+      "name": "what Alex put in",
+      "color": "#2F6FD6",
+      "data": [
+       0,
+       18000,
+       36000,
+       54000,
+       72000,
+       90000,
+       108000,
+       126000,
+       144000
+      ]
+     },
+     {
+      "name": "what it grew to",
+      "color": "#2E9E5B",
+      "data": [
+       0,
+       22043,
+       54884,
+       103811,
+       176706,
+       285308,
+       447108,
+       688165,
+       1047302
+      ]
+     }
+    ]
+   },
+   "start": 586.7589166666668,
+   "sentences": [
+    {
+     "text": "Watch what happens.",
+     "start": 586.759,
+     "dur": 1.226
+    },
+    {
+     "text": "For the first ten years, it's honestly boring.",
+     "start": 588.284,
+     "dur": 2.612
+    },
+    {
+     "text": "Alex puts in thirty six thousand dollars, and it grows to about fifty five thousand.",
+     "start": 591.197,
+     "dur": 5.601
+    },
+    {
+     "text": "Nice, but nothing special.",
+     "start": 597.098,
+     "dur": 1.503
+    },
+    {
+     "text": "After twenty years, about one hundred and seventy seven thousand.",
+     "start": 598.901,
+     "dur": 4.166
+    },
+    {
+     "text": "Then the curve starts to bend.",
+     "start": 603.366,
+     "dur": 1.655
+    },
+    {
+     "text": "After thirty years, four hundred and forty seven thousand.",
+     "start": 605.321,
+     "dur": 3.645
+    },
+    {
+     "text": "And after forty years, at age sixty five, over one million dollars.",
+     "start": 609.266,
+     "dur": 4.498
+    }
+   ],
+   "end": 614.614,
+   "dur": 27.855
+  },
+  {
+   "index": 40,
+   "visual": {
+    "type": "bars",
+    "title": "After 40 years",
+    "money": true,
+    "items": [
+     [
+      "Alex's own money",
+      144000,
+      "#2F6FD6"
+     ],
+     [
+      "growth from compounding",
+      903302,
+      "#2E9E5B"
+     ],
+     [
+      "total",
+      1047302,
+      "#2E9E5B"
+     ]
+    ]
+   },
+   "start": 614.613583333333,
+   "sentences": [
+    {
+     "text": "Here's the incredible part.",
+     "start": 614.614,
+     "dur": 1.653
+    },
+    {
+     "text": "Alex only put in one hundred and forty four thousand dollars of actual money.",
+     "start": 616.566,
+     "dur": 5.024
+    },
+    {
+     "text": "The other nine hundred thousand dollars came from compounding.",
+     "start": 621.89,
+     "dur": 3.597
+    },
+    {
+     "text": "From returns earning returns.",
+     "start": 625.787,
+     "dur": 1.912
+    },
+    {
+     "text": "The money did most of the work.",
+     "start": 627.999,
+     "dur": 1.815
+    }
+   ],
+   "end": 630.664,
+   "dur": 16.05
+  },
+  {
+   "index": 41,
+   "visual": {
+    "type": "stat",
+    "value": 72,
+    "prefix": "",
+    "suffix": "",
+    "label": "Rule of 72: years to double = 72 / return",
+    "color": "#2F6FD6"
+   },
+   "start": 630.6643333333328,
+   "sentences": [
+    {
+     "text": "There's a handy shortcut called the rule of seventy two.",
+     "start": 630.664,
+     "dur": 2.855
+    },
+    {
+     "text": "Divide seventy two by your annual return, and you get roughly how many years it takes your money to double.",
+     "start": 633.819,
+     "dur": 6.452
+    },
+    {
+     "text": "At eight percent, seventy two divided by eight is nine.",
+     "start": 640.571,
+     "dur": 3.68
+    },
+    {
+     "text": "Your money roughly doubles every nine years.",
+     "start": 644.55,
+     "dur": 2.832
+    },
+    {
+     "text": "Over forty years, that's more than four doublings.",
+     "start": 647.682,
+     "dur": 2.926
+    }
+   ],
+   "end": 651.459,
+   "dur": 20.795
+  },
+  {
+   "index": 42,
+   "visual": {
+    "type": "chapter",
+    "n": 0,
+    "title": "The Most Important Ingredient",
+    "small": true
+   },
+   "start": 651.4585416666658,
+   "sentences": [
+    {
+     "text": "Now here's the most important part of this whole video.",
+     "start": 651.459,
+     "dur": 3.106
+    },
+    {
+     "text": "The secret ingredient of compounding isn't money.",
+     "start": 654.865,
+     "dur": 3.086
+    },
+    {
+     "text": "It's time.",
+     "start": 658.251,
+     "dur": 0.848
+    }
+   ],
+   "end": 660.298,
+   "dur": 8.839
+  },
+  {
+   "index": 43,
+   "visual": {
+    "type": "versus",
+    "left": {
+     "who": "alex",
+     "mood": "happy",
+     "title": "Alex: ages 25-35",
+     "lines": [
+      "$300/mo for 10 years",
+      "$36,000 put in",
+      "then stops forever",
+      "at 65: $600,195"
+     ]
+    },
+    "right": {
+     "who": "sam",
+     "mood": "sad",
+     "title": "Sam: ages 35-65",
+     "lines": [
+      "$300/mo for 30 years",
+      "$108,000 put in",
+      "never stops",
+      "at 65: $447,108"
+     ]
+    }
+   },
+   "start": 660.2982916666657,
+   "sentences": [
+    {
+     "text": "Imagine a different story.",
+     "start": 660.298,
+     "dur": 1.584
+    },
+    {
+     "text": "Alex invests three hundred a month from twenty five to thirty five, just ten years, thirty six thousand dollars total, and then stops completely, and never adds another dollar.",
+     "start": 662.182,
+     "dur": 11.616
+    },
+    {
+     "text": "Sam wakes up at thirty five and invests three hundred a month for thirty straight years, a hundred and eight thousand dollars total.",
+     "start": 674.098,
+     "dur": 7.954
+    },
+    {
+     "text": "Who has more at sixty five?",
+     "start": 682.352,
+     "dur": 1.69
+    }
+   ],
+   "end": 684.892,
+   "dur": 24.594
+  },
+  {
+   "index": 44,
+   "visual": {
+    "type": "bars",
+    "title": "At age 65",
+    "money": true,
+    "items": [
+     [
+      "Alex (10 yrs, $36k in)",
+      600195,
+      "#2E9E5B"
+     ],
+     [
+      "Sam (30 yrs, $108k in)",
+      447108,
+      "#2F6FD6"
+     ]
+    ]
+   },
+   "start": 684.8920416666656,
+   "sentences": [
+    {
+     "text": "Alex.",
+     "start": 684.892,
+     "dur": 0.657
+    },
+    {
+     "text": "With about six hundred thousand dollars, versus Sam's four hundred and forty seven thousand.",
+     "start": 685.849,
+     "dur": 5.675
+    },
+    {
+     "text": "Alex put in one third of the money, and still ended up with more, simply by starting ten years earlier.",
+     "start": 691.824,
+     "dur": 6.457
+    },
+    {
+     "text": "Those early dollars had more time to snowball.",
+     "start": 698.581,
+     "dur": 2.954
+    }
+   ],
+   "end": 702.385,
+   "dur": 17.493
+  },
+  {
+   "index": 45,
+   "visual": {
+    "type": "big",
+    "text": "The best time to start was yesterday.",
+    "sub": "The second best time is today.",
+    "color": "#2E9E5B"
+   },
+   "start": 702.3849166666654,
+   "sentences": [
+    {
+     "text": "So if you take one thing from this video, let it be this.",
+     "start": 702.385,
+     "dur": 3.322
+    },
+    {
+     "text": "The best time to start was years ago.",
+     "start": 706.007,
+     "dur": 2.247
+    },
+    {
+     "text": "The second best time is today.",
+     "start": 708.554,
+     "dur": 1.733
+    },
+    {
+     "text": "Not when you earn more.",
+     "start": 710.587,
+     "dur": 1.256
+    },
+    {
+     "text": "Not when things calm down.",
+     "start": 712.143,
+     "dur": 1.569
+    },
+    {
+     "text": "Today, even if it's a small amount.",
+     "start": 714.011,
+     "dur": 2.068
+    }
+   ],
+   "end": 716.93,
+   "dur": 14.545
+  },
+  {
+   "index": 46,
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "title": "Assets vs. Liabilities"
+   },
+   "start": 716.9298749999984,
+   "sentences": [
+    {
+     "text": "Chapter five.",
+     "start": 716.93,
+     "dur": 1.044
+    },
+    {
+     "text": "Assets versus liabilities.",
+     "start": 718.274,
+     "dur": 1.888
+    }
+   ],
+   "end": 721.362,
+   "dur": 4.432
+  },
+  {
+   "index": 47,
+   "visual": {
+    "type": "versus",
+    "left": {
+     "who": "sam",
+     "mood": "confused",
+     "title": "Liability",
+     "lines": [
+      "takes money",
+      "out of your pocket",
+      "car loan, gadgets,",
+      "subscriptions"
+     ]
+    },
+    "right": {
+     "who": "alex",
+     "mood": "happy",
+     "title": "Asset",
+     "lines": [
+      "puts money",
+      "into your pocket",
+      "index funds, savings,",
+      "a business, skills"
+     ]
+    }
+   },
+   "start": 721.361791666665,
+   "sentences": [
+    {
+     "text": "There's a simple way to think about everything you own.",
+     "start": 721.362,
+     "dur": 2.917
+    },
+    {
+     "text": "An asset puts money into your pocket.",
+     "start": 724.579,
+     "dur": 2.141
+    },
+    {
+     "text": "A liability takes money out of your pocket.",
+     "start": 727.021,
+     "dur": 2.532
+    },
+    {
+     "text": "A car loan, a big TV on credit, a pile of subscriptions.",
+     "start": 729.853,
+     "dur": 4.13
+    },
+    {
+     "text": "Those are liabilities.",
+     "start": 734.282,
+     "dur": 1.59
+    },
+    {
+     "text": "Investments, a business, or skills that raise your income.",
+     "start": 736.172,
+     "dur": 3.451
+    },
+    {
+     "text": "Those are assets.",
+     "start": 739.923,
+     "dur": 1.202
+    }
+   ],
+   "end": 741.975,
+   "dur": 20.613
+  },
+  {
+   "index": 48,
+   "visual": {
+    "type": "stage",
+    "head": "Looking rich vs. being rich",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.28,
+      "mood": "happy",
+      "act": "wave",
+      "hold": "phone"
+     },
+     {
+      "who": "alex",
+      "x": 0.72,
+      "mood": "neutral",
+      "act": "idle"
+     }
+    ],
+    "props": [
+     {
+      "kind": "car",
+      "x": 0.12,
+      "y": 0.66,
+      "s": 1.1,
+      "label": "leased"
+     },
+     {
+      "kind": "tree",
+      "x": 0.9,
+      "y": 0.62,
+      "s": 1.1,
+      "grow": true,
+      "label": "growing"
+     }
+    ]
+   },
+   "start": 741.9752916666646,
+   "sentences": [
+    {
+     "text": "Here's the twist.",
+     "start": 741.975,
+     "dur": 1.067
+    },
+    {
+     "text": "Sam often looks richer than Alex.",
+     "start": 743.342,
+     "dur": 2.095
+    },
+    {
+     "text": "Nicer car, newer clothes, more expensive vacations.",
+     "start": 745.737,
+     "dur": 3.744
+    },
+    {
+     "text": "But looking rich and being rich are opposites.",
+     "start": 749.781,
+     "dur": 2.686
+    },
+    {
+     "text": "Every dollar Sam spends to look rich is a dollar that will never compound.",
+     "start": 752.767,
+     "dur": 4.752
+    },
+    {
+     "text": "Alex looks perfectly normal, while a money tree quietly grows in the background.",
+     "start": 757.819,
+     "dur": 4.995
+    }
+   ],
+   "end": 763.665,
+   "dur": 21.69
+  },
+  {
+   "index": 49,
+   "visual": {
+    "type": "big",
+    "text": "Wealth is what you DON'T see.",
+    "sub": "The cars not bought. The money still invested.",
+    "color": "#2E9E5B"
+   },
+   "start": 763.6645833333309,
+   "sentences": [
+    {
+     "text": "Wealth is mostly invisible.",
+     "start": 763.665,
+     "dur": 1.832
+    },
+    {
+     "text": "It's the car that wasn't bought, the upgrade that was skipped, the money that is still sitting in an account, compounding.",
+     "start": 765.796,
+     "dur": 6.913
+    },
+    {
+     "text": "You can't see someone's net worth by looking at their driveway.",
+     "start": 773.009,
+     "dur": 3.459
+    }
+   ],
+   "end": 777.318,
+   "dur": 13.653
+  },
+  {
+   "index": 50,
+   "visual": {
+    "type": "stage",
+    "head": "The best asset early on: you",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.35,
+      "mood": "happy",
+      "act": "think",
+      "hold": "book"
+     }
+    ],
+    "props": [
+     {
+      "kind": "arrow_up",
+      "x": 0.7,
+      "y": 0.45,
+      "s": 1.5,
+      "color": "#2E9E5B",
+      "label": "income"
+     }
+    ]
+   },
+   "start": 777.3182499999974,
+   "sentences": [
+    {
+     "text": "And early in life, your biggest asset is actually you.",
+     "start": 777.318,
+     "dur": 3.357
+    },
+    {
+     "text": "Your ability to earn.",
+     "start": 780.975,
+     "dur": 1.277
+    },
+    {
+     "text": "Alex spends some money on courses, certifications, and learning new skills, and over the years, that turns into promotions and raises.",
+     "start": 782.552,
+     "dur": 9.071
+    },
+    {
+     "text": "Investing in yourself is one of the few investments with no ceiling.",
+     "start": 791.923,
+     "dur": 4.277
+    }
+   ],
+   "end": 797.05,
+   "dur": 19.732
+  },
+  {
+   "index": 51,
+   "visual": {
+    "type": "stage",
+    "head": "Raises go to the future",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "cheer"
+     }
+    ],
+    "props": [
+     {
+      "kind": "cash",
+      "x": 0.6,
+      "y": 0.4,
+      "s": 1.0,
+      "label": "+$5,000 raise"
+     },
+     {
+      "kind": "piggy",
+      "x": 0.82,
+      "y": 0.62,
+      "s": 1.3,
+      "label": "half saved"
+     }
+    ]
+   },
+   "start": 797.0503749999972,
+   "sentences": [
+    {
+     "text": "And here's the key.",
+     "start": 797.05,
+     "dur": 1.142
+    },
+    {
+     "text": "When Alex gets a raise, Alex doesn't let lifestyle inflation swallow all of it.",
+     "start": 798.492,
+     "dur": 5.222
+    },
+    {
+     "text": "A simple rule: at least half of every raise goes straight to investments.",
+     "start": 804.014,
+     "dur": 4.514
+    },
+    {
+     "text": "Alex still gets to enjoy life a little more each year, but the gap between earning and spending keeps growing.",
+     "start": 808.828,
+     "dur": 6.434
+    },
+    {
+     "text": "That gap is the engine of wealth.",
+     "start": 815.562,
+     "dur": 1.948
+    }
+   ],
+   "end": 818.36,
+   "dur": 21.31
+  },
+  {
+   "index": 52,
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "title": "Where Should the Money Go?"
+   },
+   "start": 818.3598749999969,
+   "sentences": [
+    {
+     "text": "Chapter six.",
+     "start": 818.36,
+     "dur": 0.971
+    },
+    {
+     "text": "Where should the money actually go?",
+     "start": 819.631,
+     "dur": 1.766
+    }
+   ],
+   "end": 822.597,
+   "dur": 4.237
+  },
+  {
+   "index": 53,
+   "visual": {
+    "type": "stage",
+    "head": "Picking stocks?",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "shocked",
+      "act": "shock"
+     }
+    ],
+    "props": [
+     {
+      "kind": "phone",
+      "x": 0.66,
+      "y": 0.48,
+      "s": 1.4,
+      "label": "hot tip!!"
+     },
+     {
+      "kind": "arrow_down",
+      "x": 0.86,
+      "y": 0.48,
+      "s": 1.2,
+      "color": "#E0483E"
+     }
+    ]
+   },
+   "start": 822.5970416666635,
+   "sentences": [
+    {
+     "text": "Sam finally decides to invest.",
+     "start": 822.597,
+     "dur": 2.109
+    },
+    {
+     "text": "Sam hears a hot tip from a friend, buys a single stock that everyone is talking about, and watches it drop forty percent in two months.",
+     "start": 825.006,
+     "dur": 8.973
+    },
+    {
+     "text": "Sam panics, sells, and decides investing is basically gambling.",
+     "start": 834.279,
+     "dur": 4.24
+    }
+   ],
+   "end": 839.369,
+   "dur": 16.772
+  },
+  {
+   "index": 54,
+   "visual": {
+    "type": "stage",
+    "head": "The index fund: buy the whole basket",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.28,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "basket",
+      "x": 0.66,
+      "y": 0.6,
+      "s": 1.8,
+      "label": "hundreds of companies"
+     }
+    ]
+   },
+   "start": 839.36933333333,
+   "sentences": [
+    {
+     "text": "Alex does something much more boring.",
+     "start": 839.369,
+     "dur": 2.078
+    },
+    {
+     "text": "Instead of trying to pick the winners, Alex buys the whole basket.",
+     "start": 841.748,
+     "dur": 3.894
+    },
+    {
+     "text": "A broad, low cost index fund holds hundreds or even thousands of companies at once.",
+     "start": 845.942,
+     "dur": 5.912
+    },
+    {
+     "text": "When some go down, others go up.",
+     "start": 852.154,
+     "dur": 2.117
+    },
+    {
+     "text": "Alex doesn't need to be a genius.",
+     "start": 854.571,
+     "dur": 1.967
+    },
+    {
+     "text": "Alex just owns a small piece of the whole economy.",
+     "start": 856.838,
+     "dur": 3.143
+    }
+   ],
+   "end": 860.831,
+   "dur": 21.462
+  },
+  {
+   "index": 55,
+   "visual": {
+    "type": "line",
+    "title": "The market over time (illustration)",
+    "xlabel": "years",
+    "x0": 0,
+    "x1": 30,
+    "money": false,
+    "wiggle": true,
+    "series": [
+     {
+      "name": "broad market",
+      "color": "#2E9E5B",
+      "data": [
+       100,
+       112,
+       98,
+       125,
+       140,
+       118,
+       150,
+       175,
+       160,
+       190,
+       230,
+       210,
+       260,
+       300,
+       270,
+       330,
+       380,
+       350,
+       420,
+       480,
+       400,
+       470,
+       550,
+       620,
+       580,
+       660,
+       760,
+       700,
+       820,
+       900,
+       1000
+      ]
+     }
+    ]
+   },
+   "start": 860.8309999999964,
+   "sentences": [
+    {
+     "text": "Does the market go down?",
+     "start": 860.831,
+     "dur": 1.443
+    },
+    {
+     "text": "Absolutely.",
+     "start": 862.574,
+     "dur": 0.957
+    },
+    {
+     "text": "Sometimes a lot.",
+     "start": 863.831,
+     "dur": 1.21
+    },
+    {
+     "text": "Crashes and recessions happen every few years.",
+     "start": 865.341,
+     "dur": 3.076
+    },
+    {
+     "text": "But historically, over long periods, broad markets have gone up far more than they've gone down.",
+     "start": 868.717,
+     "dur": 5.772
+    },
+    {
+     "text": "The ride is bumpy, but the direction has been upward.",
+     "start": 874.789,
+     "dur": 3.326
+    },
+    {
+     "text": "The people who got hurt the most were usually the ones who panicked and sold at the bottom.",
+     "start": 878.415,
+     "dur": 5.069
+    }
+   ],
+   "end": 884.334,
+   "dur": 23.503
+  },
+  {
+   "index": 56,
+   "visual": {
+    "type": "bars",
+    "title": "$500/month for 40 years",
+    "money": true,
+    "items": [
+     [
+      "7% return, low fees",
+      1312407,
+      "#2E9E5B"
+     ],
+     [
+      "same, minus 1% fee",
+      995745,
+      "#E0483E"
+     ]
+    ]
+   },
+   "start": 884.3336666666628,
+   "sentences": [
+    {
+     "text": "Alex also pays attention to fees.",
+     "start": 884.334,
+     "dur": 2.358
+    },
+    {
+     "text": "A one percent fee sounds tiny.",
+     "start": 886.992,
+     "dur": 1.933
+    },
+    {
+     "text": "But take five hundred dollars a month for forty years.",
+     "start": 889.225,
+     "dur": 2.983
+    },
+    {
+     "text": "At seven percent, you'd end up with about one point three million.",
+     "start": 892.508,
+     "dur": 3.868
+    },
+    {
+     "text": "With a one percent annual fee eating into that return, you'd end up with under one million.",
+     "start": 896.676,
+     "dur": 5.276
+    },
+    {
+     "text": "That small fee quietly costs over three hundred thousand dollars.",
+     "start": 902.252,
+     "dur": 3.996
+    }
+   ],
+   "end": 907.098,
+   "dur": 22.764
+  },
+  {
+   "index": 57,
+   "visual": {
+    "type": "stage",
+    "head": "Make it automatic",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "idle",
+      "hold": "phone"
+     }
+    ],
+    "props": [
+     {
+      "kind": "calendar",
+      "x": 0.66,
+      "y": 0.42,
+      "s": 1.1,
+      "label": "payday"
+     },
+     {
+      "kind": "arrow_up",
+      "x": 0.86,
+      "y": 0.55,
+      "s": 1.0,
+      "color": "#2E9E5B",
+      "label": "auto-invest"
+     }
+    ]
+   },
+   "start": 907.0982499999958,
+   "sentences": [
+    {
+     "text": "And finally, Alex makes it automatic.",
+     "start": 907.098,
+     "dur": 2.486
+    },
+    {
+     "text": "On payday, money moves into the investment account without Alex having to decide anything.",
+     "start": 909.885,
+     "dur": 6.089
+    },
+    {
+     "text": "No willpower needed.",
+     "start": 916.274,
+     "dur": 1.374
+    },
+    {
+     "text": "No checking the news.",
+     "start": 917.948,
+     "dur": 1.383
+    },
+    {
+     "text": "No trying to guess the perfect moment.",
+     "start": 919.631,
+     "dur": 2.107
+    },
+    {
+     "text": "Alex basically forgets about it and lets time do its thing.",
+     "start": 922.037,
+     "dur": 3.626
+    }
+   ],
+   "end": 926.513,
+   "dur": 19.415
+  },
+  {
+   "index": 58,
+   "visual": {
+    "type": "stage",
+    "head": "Use the tax breaks",
+    "figs": [
+     {
+      "who": "alex",
+      "x": 0.35,
+      "mood": "happy",
+      "act": "point"
+     }
+    ],
+    "props": [
+     {
+      "kind": "building",
+      "x": 0.72,
+      "y": 0.55,
+      "s": 1.5,
+      "label": "retirement accounts"
+     }
+    ]
+   },
+   "start": 926.5129999999955,
+   "sentences": [
+    {
+     "text": "If your employer offers a retirement plan, especially one with a matching contribution, that match is basically free money.",
+     "start": 926.513,
+     "dur": 8.225
+    },
+    {
+     "text": "Take it.",
+     "start": 935.038,
+     "dur": 0.671
+    },
+    {
+     "text": "Many countries also have tax advantaged accounts for long term investing.",
+     "start": 936.01,
+     "dur": 4.652
+    },
+    {
+     "text": "The exact rules depend on where you live, so it's worth spending an afternoon learning what's available to you.",
+     "start": 940.962,
+     "dur": 6.62
+    }
+   ],
+   "end": 948.432,
+   "dur": 21.919
+  },
+  {
+   "index": 59,
+   "visual": {
+    "type": "chapter",
+    "n": 0,
+    "title": "Three Excuses That Keep People Trapped",
+    "small": true
+   },
+   "start": 948.432291666662,
+   "sentences": [
+    {
+     "text": "Before we get to the plan, let's deal with the three excuses that keep most people stuck in the trap.",
+     "start": 948.432,
+     "dur": 5.799
+    },
+    {
+     "text": "Sam has used all three.",
+     "start": 954.531,
+     "dur": 1.634
+    }
+   ],
+   "end": 957.365,
+   "dur": 8.933
+  },
+  {
+   "index": 60,
+   "visual": {
+    "type": "stage",
+    "head": "Excuse #1: \"I don't earn enough\"",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "sad",
+      "act": "shrug"
+     }
+    ],
+    "props": [
+     {
+      "kind": "coin",
+      "x": 0.62,
+      "y": 0.5,
+      "s": 1.6,
+      "label": "$50 / month"
+     },
+     {
+      "kind": "arrow_up",
+      "x": 0.84,
+      "y": 0.5,
+      "s": 1.1,
+      "color": "#2E9E5B"
+     }
+    ]
+   },
+   "start": 957.3648749999951,
+   "sentences": [
+    {
+     "text": "Excuse number one.",
+     "start": 957.365,
+     "dur": 1.228
+    },
+    {
+     "text": "I don't earn enough to invest.",
+     "start": 958.893,
+     "dur": 1.55
+    },
+    {
+     "text": "It's true that a bigger income makes everything easier.",
+     "start": 960.743,
+     "dur": 3.022
+    },
+    {
+     "text": "But the habit matters more than the amount.",
+     "start": 964.065,
+     "dur": 2.219
+    },
+    {
+     "text": "Fifty dollars a month is a real start.",
+     "start": 966.584,
+     "dur": 2.453
+    },
+    {
+     "text": "It builds the system, and when the income grows, the system is already there, waiting.",
+     "start": 969.337,
+     "dur": 5.314
+    },
+    {
+     "text": "Plenty of high earners are broke, because the habit never formed.",
+     "start": 974.951,
+     "dur": 4.001
+    }
+   ],
+   "end": 979.802,
+   "dur": 22.437
+  },
+  {
+   "index": 61,
+   "visual": {
+    "type": "stage",
+    "head": "Excuse #2: \"I'll start later\"",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "neutral",
+      "act": "idle"
+     }
+    ],
+    "props": [
+     {
+      "kind": "clock",
+      "x": 0.68,
+      "y": 0.48,
+      "s": 1.6,
+      "label": "tick, tock"
+     }
+    ]
+   },
+   "start": 979.8023333333282,
+   "sentences": [
+    {
+     "text": "Excuse number two.",
+     "start": 979.802,
+     "dur": 1.319
+    },
+    {
+     "text": "I'll start later.",
+     "start": 981.421,
+     "dur": 1.104
+    },
+    {
+     "text": "After the next raise.",
+     "start": 982.825,
+     "dur": 1.312
+    },
+    {
+     "text": "After the wedding.",
+     "start": 984.437,
+     "dur": 1.027
+    },
+    {
+     "text": "After things calm down.",
+     "start": 985.763,
+     "dur": 1.467
+    },
+    {
+     "text": "But things never calm down.",
+     "start": 987.53,
+     "dur": 1.589
+    },
+    {
+     "text": "And as we saw, every year you wait costs you the most powerful years of compounding, the ones at the very end, where the snowball is biggest.",
+     "start": 989.419,
+     "dur": 9.225
+    },
+    {
+     "text": "Waiting ten years can cut your final result by more than half.",
+     "start": 998.945,
+     "dur": 3.942
+    }
+   ],
+   "end": 1003.737,
+   "dur": 23.935
+  },
+  {
+   "index": 62,
+   "visual": {
+    "type": "stage",
+    "head": "Excuse #3: \"I'll wait for the right moment\"",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "thinking",
+      "act": "think"
+     }
+    ],
+    "props": [
+     {
+      "kind": "phone",
+      "x": 0.62,
+      "y": 0.48,
+      "s": 1.2,
+      "label": "market news"
+     },
+     {
+      "kind": "arrow_down",
+      "x": 0.82,
+      "y": 0.42,
+      "s": 1.0,
+      "color": "#E0483E"
+     },
+     {
+      "kind": "arrow_up",
+      "x": 0.9,
+      "y": 0.58,
+      "s": 1.0,
+      "color": "#2E9E5B"
+     }
+    ]
+   },
+   "start": 1003.7370833333277,
+   "sentences": [
+    {
+     "text": "Excuse number three.",
+     "start": 1003.737,
+     "dur": 1.357
+    },
+    {
+     "text": "I'll wait for the market to drop, and then buy.",
+     "start": 1005.394,
+     "dur": 2.73
+    },
+    {
+     "text": "It sounds smart.",
+     "start": 1008.424,
+     "dur": 1.065
+    },
+    {
+     "text": "But even professional investors struggle to time the market consistently.",
+     "start": 1009.79,
+     "dur": 4.37
+    },
+    {
+     "text": "While Sam waits for the perfect moment, the market often climbs higher, and Sam waits some more.",
+     "start": 1014.46,
+     "dur": 5.906
+    },
+    {
+     "text": "Alex has a simpler approach.",
+     "start": 1020.666,
+     "dur": 1.718
+    },
+    {
+     "text": "Invest the same amount every month, whatever the news says.",
+     "start": 1022.684,
+     "dur": 3.68
+    },
+    {
+     "text": "When prices are low, that money buys more.",
+     "start": 1026.665,
+     "dur": 2.832
+    },
+    {
+     "text": "When prices are high, it buys less.",
+     "start": 1029.797,
+     "dur": 2.38
+    },
+    {
+     "text": "Over time, it averages out.",
+     "start": 1032.477,
+     "dur": 1.883
+    },
+    {
+     "text": "This is called dollar cost averaging.",
+     "start": 1034.659,
+     "dur": 2.143
+    }
+   ],
+   "end": 1037.652,
+   "dur": 33.915
+  },
+  {
+   "index": 63,
+   "visual": {
+    "type": "big",
+    "text": "Time IN the market > timing the market",
+    "sub": "consistency beats cleverness",
+    "color": "#2F6FD6"
+   },
+   "start": 1037.652208333327,
+   "sentences": [
+    {
+     "text": "There's an old saying among investors.",
+     "start": 1037.652,
+     "dur": 2.223
+    },
+    {
+     "text": "Time in the market beats timing the market.",
+     "start": 1040.175,
+     "dur": 2.306
+    },
+    {
+     "text": "Consistency beats cleverness.",
+     "start": 1042.781,
+     "dur": 1.925
+    },
+    {
+     "text": "Alex isn't smarter than Sam.",
+     "start": 1045.006,
+     "dur": 1.79
+    },
+    {
+     "text": "Alex is just more consistent.",
+     "start": 1047.097,
+     "dur": 1.783
+    }
+   ],
+   "end": 1049.73,
+   "dur": 12.078
+  },
+  {
+   "index": 64,
+   "visual": {
+    "type": "stage",
+    "head": "The real enemy: your own brain",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.5,
+      "mood": "shocked",
+      "act": "shock",
+      "say": "SELL!!"
+     }
+    ]
+   },
+   "start": 1049.7297083333267,
+   "sentences": [
+    {
+     "text": "And honestly, the biggest risk for most investors isn't the market at all.",
+     "start": 1049.73,
+     "dur": 4.535
+    },
+    {
+     "text": "It's their own emotions.",
+     "start": 1054.565,
+     "dur": 1.492
+    },
+    {
+     "text": "Fear makes people sell when prices crash.",
+     "start": 1056.357,
+     "dur": 2.541
+    },
+    {
+     "text": "Greed makes people chase whatever went up last year.",
+     "start": 1059.198,
+     "dur": 3.245
+    },
+    {
+     "text": "The best investors are often the ones who set up a sensible plan, automate it, and then stop looking at it every day.",
+     "start": 1062.743,
+     "dur": 7.48
+    }
+   ],
+   "end": 1071.073,
+   "dur": 21.343
+  },
+  {
+   "index": 65,
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "title": "The Simple Plan"
+   },
+   "start": 1071.0728749999932,
+   "sentences": [
+    {
+     "text": "Chapter seven.",
+     "start": 1071.073,
+     "dur": 0.997
+    },
+    {
+     "text": "The simple plan.",
+     "start": 1072.37,
+     "dur": 1.116
+    }
+   ],
+   "end": 1074.686,
+   "dur": 3.613
+  },
+  {
+   "index": 66,
+   "visual": {
+    "type": "stage",
+    "head": "It's not too late, Sam",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.35,
+      "mood": "thinking",
+      "act": "think"
+     },
+     {
+      "who": "alex",
+      "x": 0.65,
+      "mood": "happy",
+      "act": "point",
+      "say": "Start today!"
+     }
+    ]
+   },
+   "start": 1074.6856249999933,
+   "sentences": [
+    {
+     "text": "So what about Sam?",
+     "start": 1074.686,
+     "dur": 1.225
+    },
+    {
+     "text": "Is it too late?",
+     "start": 1076.211,
+     "dur": 1.023
+    },
+    {
+     "text": "No.",
+     "start": 1077.534,
+     "dur": 0.537
+    },
+    {
+     "text": "It is never too late to stop the leak and start compounding.",
+     "start": 1078.371,
+     "dur": 3.393
+    },
+    {
+     "text": "Sam just needs a plan.",
+     "start": 1082.064,
+     "dur": 1.592
+    },
+    {
+     "text": "And here it is, step by step.",
+     "start": 1083.956,
+     "dur": 1.702
+    }
+   ],
+   "end": 1086.508,
+   "dur": 11.822
+  },
+  {
+   "index": 67,
+   "visual": {
+    "type": "bullets",
+    "title": "The plan",
+    "icon": "num",
+    "items": [
+     "Track spending for one month",
+     "Build a starter emergency fund",
+     "Kill high-interest debt",
+     "Pay yourself first, automatically",
+     "Invest in low-cost index funds",
+     "Save half of every raise"
+    ]
+   },
+   "start": 1086.5084999999926,
+   "sentences": [
+    {
+     "text": "Step one.",
+     "start": 1086.508,
+     "dur": 0.815
+    },
+    {
+     "text": "Track your spending for one month.",
+     "start": 1087.623,
+     "dur": 1.718
+    },
+    {
+     "text": "Just look.",
+     "start": 1089.641,
+     "dur": 0.859
+    },
+    {
+     "text": "Find the holes in the bucket.",
+     "start": 1090.8,
+     "dur": 1.478
+    },
+    {
+     "text": "Step two.",
+     "start": 1092.579,
+     "dur": 0.873
+    },
+    {
+     "text": "Build a small starter emergency fund, even one thousand dollars, so the next surprise doesn't go on a credit card.",
+     "start": 1093.752,
+     "dur": 7.601
+    },
+    {
+     "text": "Step three.",
+     "start": 1101.652,
+     "dur": 0.927
+    },
+    {
+     "text": "Attack high interest debt, starting with the highest rate.",
+     "start": 1102.88,
+     "dur": 3.222
+    },
+    {
+     "text": "Step four.",
+     "start": 1106.401,
+     "dur": 0.906
+    },
+    {
+     "text": "Pay yourself first.",
+     "start": 1107.607,
+     "dur": 1.258
+    },
+    {
+     "text": "Set up an automatic transfer on payday.",
+     "start": 1109.165,
+     "dur": 2.596
+    },
+    {
+     "text": "Step five.",
+     "start": 1112.061,
+     "dur": 0.923
+    },
+    {
+     "text": "Invest for the long term in broad, low cost index funds, and leave them alone.",
+     "start": 1113.284,
+     "dur": 5.012
+    },
+    {
+     "text": "Step six.",
+     "start": 1118.595,
+     "dur": 0.906
+    },
+    {
+     "text": "Every time you get a raise, save at least half of it.",
+     "start": 1119.801,
+     "dur": 3.22
+    }
+   ],
+   "end": 1123.871,
+   "dur": 37.363
+  },
+  {
+   "index": 68,
+   "visual": {
+    "type": "pie",
+    "title": "A simple starting budget: 50 / 30 / 20",
+    "items": [
+     [
+      "needs",
+      50,
+      "#2F6FD6"
+     ],
+     [
+      "wants",
+      30,
+      "#F2A93B"
+     ],
+     [
+      "savings & debt payoff",
+      20,
+      "#2E9E5B"
+     ]
+    ]
+   },
+   "start": 1123.8714166666582,
+   "sentences": [
+    {
+     "text": "If you want a simple starting point, try the fifty thirty twenty rule.",
+     "start": 1123.871,
+     "dur": 4.277
+    },
+    {
+     "text": "Fifty percent of your take home pay for needs, like housing, food, and transport.",
+     "start": 1128.448,
+     "dur": 5.128
+    },
+    {
+     "text": "Thirty percent for wants, the fun stuff.",
+     "start": 1133.876,
+     "dur": 2.33
+    },
+    {
+     "text": "And twenty percent for savings and paying off debt.",
+     "start": 1136.506,
+     "dur": 2.832
+    },
+    {
+     "text": "It's not perfect for everyone, but it's a great first framework.",
+     "start": 1139.637,
+     "dur": 3.749
+    }
+   ],
+   "end": 1144.237,
+   "dur": 20.366
+  },
+  {
+   "index": 69,
+   "visual": {
+    "type": "stage",
+    "head": "Small steps, big results",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.3,
+      "mood": "happy",
+      "act": "push"
+     }
+    ],
+    "props": [
+     {
+      "kind": "snowball",
+      "x": 0.62,
+      "y": 0.62,
+      "s": 0.8,
+      "grow": true
+     }
+    ]
+   },
+   "start": 1144.2367499999912,
+   "sentences": [
+    {
+     "text": "And Sam starts.",
+     "start": 1144.237,
+     "dur": 1.094
+    },
+    {
+     "text": "Small at first.",
+     "start": 1145.631,
+     "dur": 1.079
+    },
+    {
+     "text": "Cancels a few subscriptions nobody was using.",
+     "start": 1147.009,
+     "dur": 3.122
+    },
+    {
+     "text": "Pays off the credit card.",
+     "start": 1150.431,
+     "dur": 1.503
+    },
+    {
+     "text": "Starts investing two hundred dollars a month, then three hundred, then more.",
+     "start": 1152.234,
+     "dur": 4.462
+    },
+    {
+     "text": "It's not dramatic.",
+     "start": 1156.996,
+     "dur": 1.23
+    },
+    {
+     "text": "It's not exciting.",
+     "start": 1158.526,
+     "dur": 1.195
+    },
+    {
+     "text": "But the snowball has started rolling.",
+     "start": 1160.02,
+     "dur": 1.958
+    }
+   ],
+   "end": 1162.828,
+   "dur": 18.591
+  },
+  {
+   "index": 70,
+   "visual": {
+    "type": "big",
+    "text": "Spend less than you earn. Invest the difference. Wait.",
+    "sub": "That's it. That's the whole secret.",
+    "color": "#2E9E5B"
+   },
+   "start": 1162.8280833333242,
+   "sentences": [
+    {
+     "text": "Because in the end, the money trap isn't about how much you earn.",
+     "start": 1162.828,
+     "dur": 3.688
+    },
+    {
+     "text": "It's about three simple things.",
+     "start": 1166.816,
+     "dur": 1.797
+    },
+    {
+     "text": "Spend less than you earn.",
+     "start": 1168.913,
+     "dur": 1.435
+    },
+    {
+     "text": "Invest the difference.",
+     "start": 1170.648,
+     "dur": 1.309
+    },
+    {
+     "text": "And give it time.",
+     "start": 1172.257,
+     "dur": 1.119
+    },
+    {
+     "text": "That's it.",
+     "start": 1173.676,
+     "dur": 0.782
+    },
+    {
+     "text": "That's the whole secret.",
+     "start": 1174.758,
+     "dur": 1.252
+    },
+    {
+     "text": "It's simple.",
+     "start": 1176.31,
+     "dur": 0.846
+    },
+    {
+     "text": "It's just not easy.",
+     "start": 1177.456,
+     "dur": 1.29
+    }
+   ],
+   "end": 1179.596,
+   "dur": 16.768
+  },
+  {
+   "index": 71,
+   "visual": {
+    "type": "stage",
+    "head": "Thanks for watching!",
+    "figs": [
+     {
+      "who": "sam",
+      "x": 0.35,
+      "mood": "happy",
+      "act": "wave"
+     },
+     {
+      "who": "alex",
+      "x": 0.65,
+      "mood": "happy",
+      "act": "wave"
+     }
+    ],
+    "fx": "coins_rain"
+   },
+   "start": 1179.5958749999904,
+   "sentences": [
+    {
+     "text": "Sam and Alex will be back with more money lessons.",
+     "start": 1179.596,
+     "dur": 3.032
+    },
+    {
+     "text": "If this video helped you, subscribe, and share it with a friend who keeps saying they'll start saving next month.",
+     "start": 1182.928,
+     "dur": 6.32
+    },
+    {
+     "text": "Thanks for watching, and see you in the next one.",
+     "start": 1189.548,
+     "dur": 2.698
+    }
+   ],
+   "end": 1194.596,
+   "dur": 15.001
+  }
+ ]
+}

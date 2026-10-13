@@ -1,0 +1,102 @@
+identity:
+  name: "Stick Figure Finance Explainer"
+  category: whiteboard
+  mood: friendly, witty, calm-confident, slightly deadpan
+  pace: moderate
+  best_for: "Long-form (10-25 min) personal-finance / economics explainers for YouTube, built around recurring stick-figure characters who act out every money concept"
+
+visual_language:
+  color_palette:
+    primary: ["#1F1F1F", "#2B2B2B"]      # ink lines
+    accent: ["#2E9E5B", "#E0483E"]       # money green / loss red
+    background: "#FBF7EE"                # warm paper
+    text: "#1F1F1F"
+    muted: "#8A8378"
+  composition: centered stage, characters on a single ground line, one idea per frame, generous whitespace
+  texture: hand-drawn ink with subtle line boil (~8 fps), flat accent fills, faint paper grain
+
+typography:
+  headings:
+    font: "Permanent Marker"
+    weight: 400
+    tracking: "0em"
+  body:
+    font: "Patrick Hand"
+    weight: 400
+    line_height: 1.3
+  code:
+    font: "DejaVu Sans Mono"
+    weight: 400
+  stat_card:
+    font: "Permanent Marker"
+    weight: 400
+    size_multiplier: 4.0
+  scale_system: "perfect_fourth"
+  weight_matrix:
+    title: 400
+    heading: 400
+    body: 400
+    caption: 400
+
+motion:
+  transitions: [cut, fade]
+  animation_style: "spring overshoot for pop-ins, sine bob for idle characters, line boil"
+  pacing_rules:
+    min_scene_hold_seconds: 3
+    max_scene_hold_seconds: 22
+    text_card_hold_seconds: 3
+    stat_card_hold_seconds: 3
+    transition_duration_seconds: 0.25
+  entrance: "pop (scale 0 -> 1.12 -> 1.0) or draw-on for lines and charts"
+  exit: "cut"
+
+audio:
+  voice_style: "warm male narrator, conversational, unhurried (~155 wpm), light humor"
+  music_mood: "soft lo-fi / light jazz bed, low key, never competes with voice"
+  music_volume: 0.10
+  sfx_style: "none or minimal"
+  ducking_threshold_db: -4
+
+asset_generation:
+  image_prompt_prefix: "minimal black ink stick figure doodle on cream paper, flat green and red accents, "
+  image_negative_prompt: "photorealistic, 3d, gradients, detailed faces, clutter"
+  diagram_style: "hand-drawn axes, wobbly ink lines, green for growth, red for loss"
+  consistency_anchors:
+    - "Two recurring characters: Sam (no cap, money leaks) and Alex (green cap, invests)"
+    - "Cream paper background (#FBF7EE) in every scene"
+    - "Money is always green (#2E9E5B); losses/debt always red (#E0483E)"
+    - "Ground line under characters; one concept per frame"
+
+overlays:
+  stat_card:
+    bg: "#FFFFFF"
+    border: "#1F1F1F"
+    radius: 18
+    shadow: "none"
+  key_term:
+    bg: "#FFE680"
+    text: "#1F1F1F"
+    radius: 6
+  code_block:
+    bg: "#FFFFFF"
+    text: "#1F1F1F"
+    highlight: "#2E9E5B"
+
+quality_rules:
+  - "Every scene has at least one animated element (character idle, draw-on, counter)"
+  - "Burned captions at the bottom, max 2 lines, high contrast"
+  - "Numbers on screen must match the narration exactly"
+  - "Chapter cards every 2-4 minutes for long-form retention"
+  - "Not financial advice disclaimer in intro or outro"
+
+chart_palette:
+  - "#2E9E5B"
+  - "#E0483E"
+  - "#2F6FD6"
+  - "#F2A93B"
+  - "#7A52C7"
+
+color_rules:
+  harmony_type: "complementary"
+  contrast_validation: true
+  colorblind_safe: true

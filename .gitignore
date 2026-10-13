@@ -11,3 +11,6 @@
 # Python
 __pycache__/
 *.pyc
+
+# stickfigure_finance build intermediates
+/stickfigure_finance/build/
