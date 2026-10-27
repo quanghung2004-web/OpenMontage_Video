@@ -71,3 +71,27 @@ Requires `ffmpeg`, `espeak-ng` + `mbrola` voices, and `Pillow`/`numpy`
   were not usable in this sandbox.
 - `project/` — everything specific to this video: script, generated
   assets, build scripts, and intermediate/final render output.
+
+## Channel analysis & viral-topic research (for the next video)
+
+`project/scripts/youtube_viral_research.py` uses the YouTube Data API v3 to:
+
+1. pull every upload of a channel and score each against the channel's own
+   median (lifetime views + views/day) to find the videos that work best;
+2. mine the title phrases/tags that set those winners apart, plus their
+   format (Shorts vs long-form, typical length, language);
+3. search recent videos from other channels with those phrases, in the
+   same format, and rank them by views/day, outlier ratio (views ÷ the
+   uploader's subscribers) and topic match with your winners;
+4. write `project/research/viral_report_<channel>_<date>.md` (Vietnamese)
+   with next-video ideas, each pairing a viral video with your matching
+   winner, plus a full JSON dump.
+
+```bash
+export YOUTUBE_API_KEY=...   # Google Cloud key with YouTube Data API v3 enabled; never commit it
+python3 project/scripts/youtube_viral_research.py \
+    --channel UCKmCKddwkQ-NJ82TZl-Rq0Q --days 90 --region US
+# optional: --extra-query "your own seed" (repeatable), --queries 10, --top 30
+```
+
+A run costs about 1,100–1,300 of the 10,000 free daily quota units.
